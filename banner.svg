@@ -54,7 +54,7 @@
   </g>
 
   <!-- nome -->
-  <text x="450" y="115" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="56" font-weight="bold" fill="url(#title)" filter="url(#glow)">SEU NOME</text>
+  <text x="450" y="115" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="56" font-weight="bold" fill="url(#title)" filter="url(#glow)">STONEY</text>
 
   <!-- subtítulo -->
   <text x="450" y="152" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="18" letter-spacing="6" fill="#a78bfa">&gt; desenvolvedor_</text>
