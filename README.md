@@ -48,8 +48,8 @@ hobby:       Jogos, programação e hardware de PC
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d0a1a&title_color=a78bfa&icon_color=e879f9&text_color=c4b5fd" height="170" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d0a1a&title_color=a78bfa&text_color=c4b5fd" height="170" alt="Top linguagens">
+<img src="https://github-readme-stats.vercel.app/api?username=Stoneyof&show_icons=true&theme=radical&hide_border=true&bg_color=0d0a1a&title_color=a78bfa&icon_color=e879f9&text_color=c4b5fd" height="170" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stoneyof&layout=compact&hide_border=true&bg_color=0d0a1a&title_color=a78bfa&text_color=c4b5fd" height="170" alt="Top linguagens">
 
 </div>
 
